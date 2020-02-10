@@ -22,18 +22,7 @@ var videoHtml = function(src) {
 };
 /* mock */
 var videos = [
-  {
-    id: 10,
-    video: '../../video.mp4',
-    poster:
-      'https://p1.pstatp.com/large/tos-cn-p-0015/a1613666cd974ad088c2af230290406b_1576633763.jpg'
-  },
-  {
-    id: 11,
-    video: '../../video2.mp4',
-    poster:
-      'https://p9.pstatp.com/large/tos-cn-p-0015/0df7905402df42cb87b1b798bfd9a6af_1579049169.jpg'
-  },
+  
   {
     id: 0,
     video:
